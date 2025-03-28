@@ -1,4 +1,5 @@
 a project
+<<<<<<< HEAD
 ##Adding New Tasks
 -add a command-line interface
 ##how to contribute
@@ -6,3 +7,7 @@ a project
 2. make your changes
 3.Submit a pull req.
 hi there
+=======
+is here 
+>>>>>>> license
+final change
